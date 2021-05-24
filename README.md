@@ -1,2 +1,2 @@
-# PracticasASyS
+# ASySPracticasGabrielAlejandroPerez
 Repositorio de PrácticasASyS
